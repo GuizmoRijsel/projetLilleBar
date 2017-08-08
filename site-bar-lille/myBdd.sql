@@ -1,23 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Gist
- @GuizmoRijsel
- Sign out
- Watch 0
-  Star 0
-  Fork 0 GuizmoRijsel/projetLilleBar
- Code  Issues 0  Pull requests 0  Projects 1  Wiki  Settings Insights 
-Branch: myBdd Find file Copy pathprojetLilleBar/site-bar-lille/bar_lille.sql
-1070509  6 minutes ago
-@GuizmoRijsel GuizmoRijsel gma_mesDonnes
-1 contributor
-RawBlameHistory     
-144 lines (121 sloc)  3.81 KB
--- phpMyAdmin SQL Dump
 -- version 4.1.14
 -- http://www.phpmyadmin.net
 --
@@ -160,5 +140,3 @@ ALTER TABLE `gma_bar`
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
-Contact GitHub API Training Shop Blog About
-© 2017 GitHub, Inc. Terms Privacy Security Status Help
